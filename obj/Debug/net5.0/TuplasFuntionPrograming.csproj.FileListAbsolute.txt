@@ -1,0 +1,16 @@
+C:\Users\marco\source\repos\TuplasFuntionPrograming\obj\Debug\net5.0\TuplasFuntionPrograming.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\TuplasFuntionPrograming\obj\Debug\net5.0\TuplasFuntionPrograming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\TuplasFuntionPrograming\obj\Debug\net5.0\TuplasFuntionPrograming.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\TuplasFuntionPrograming\obj\Debug\net5.0\TuplasFuntionPrograming.AssemblyInfo.cs
+C:\Users\marco\source\repos\TuplasFuntionPrograming\obj\Debug\net5.0\TuplasFuntionPrograming.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\TuplasFuntionPrograming\bin\Debug\net5.0\TuplasFuntionPrograming.exe
+C:\Users\marco\source\repos\TuplasFuntionPrograming\bin\Debug\net5.0\TuplasFuntionPrograming.deps.json
+C:\Users\marco\source\repos\TuplasFuntionPrograming\bin\Debug\net5.0\TuplasFuntionPrograming.runtimeconfig.json
+C:\Users\marco\source\repos\TuplasFuntionPrograming\bin\Debug\net5.0\TuplasFuntionPrograming.runtimeconfig.dev.json
+C:\Users\marco\source\repos\TuplasFuntionPrograming\bin\Debug\net5.0\TuplasFuntionPrograming.dll
+C:\Users\marco\source\repos\TuplasFuntionPrograming\bin\Debug\net5.0\ref\TuplasFuntionPrograming.dll
+C:\Users\marco\source\repos\TuplasFuntionPrograming\bin\Debug\net5.0\TuplasFuntionPrograming.pdb
+C:\Users\marco\source\repos\TuplasFuntionPrograming\obj\Debug\net5.0\TuplasFuntionPrograming.dll
+C:\Users\marco\source\repos\TuplasFuntionPrograming\obj\Debug\net5.0\ref\TuplasFuntionPrograming.dll
+C:\Users\marco\source\repos\TuplasFuntionPrograming\obj\Debug\net5.0\TuplasFuntionPrograming.pdb
+C:\Users\marco\source\repos\TuplasFuntionPrograming\obj\Debug\net5.0\TuplasFuntionPrograming.genruntimeconfig.cache
